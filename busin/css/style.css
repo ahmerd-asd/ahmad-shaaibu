@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1;
+    background-color: rgb(240, 190, 97);
+    color: black;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background:rgb(65, 23, 180);
+    color: black;
+    padding: 30px;
+    border-radius: 0px 10px 30% 0px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+.portfolio-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.note {
+    margin-top: 30px;
+    line-height: 30px; 
+}
+.absslm{
+    border-radius:  60%; 
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(45, 24, 226);
+    padding: 5px;
+
+}
+.userpic {
+    margin-left: 40%;
+    border-radius: 80%;
+    width: 300px;
+    height: 255px;
+    background-color:rgb(45, 24, 226);
+    padding: 5px;
+}
+
+.secc {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.port {
+    border-radius: 60%;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 250px;
+    width: 20%;
+    background-color:rgb(45, 24, 226);
+    padding: 5px;
+}
+
+.list {
+    float: right ;
+    
+}
+
+.wax {
+    color: rgb(22, 16, 77);
+    font-size: 23px;
+}
+
+.frmm {
+    background-color: #ccc;
+    width: 40%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 30px;
+    height: 300px;
+}
+
+.nepa{
+    margin: 25px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+input {
+    width: 80%;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+li {
+    background-color: rgb(143, 202, 161);
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.kkkk {
+    margin-left: 20px;
+    padding-top: 20px;
+}
