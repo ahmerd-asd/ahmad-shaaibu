@@ -2,16 +2,16 @@
 
 👋 About Me
 
-- 🎓 *Profession: Student & Beginner Frontend Developer
+- 🎓 Profession: Student & Beginner Frontend Developer
    
-- 🛠️ *Top Skills/Tech Stack:  
+- 🛠️ Top Skills/Tech Stack:  
   - HTML  
   - CSS  
   - JavaScript  
   - Bootstrap (Beginner)
   - C++ (Beginner)
     
-- 🚀 *Favorite/Notable Projects:  
+- 🚀 Favorite/Notable Projects:  
   *Not yet, but eager to build and showcase projects soon!_*
 
 - Currently Learning:
