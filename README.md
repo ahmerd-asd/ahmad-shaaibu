@@ -18,10 +18,13 @@
   - Bootstrap
    
 -  Contact Info:
-  - ahmadshaaibuasd@gmail.com
+  - 
+  - 
+  - ahmadshaaibuasd@gmail.com  
+  - CSS  
+  - JavaScript  
   - 08181849374//09137314876
-   
+  - C++ (Beginner) 
 
    
 -  Fun Facts / Interests:
--  
