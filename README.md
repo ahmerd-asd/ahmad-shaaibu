@@ -12,7 +12,7 @@
   - C++ (Beginner)
     
 - 🚀 Favorite/Notable Projects:  
-  *Not yet, but eager to build and showcase projects soon!_*
+   - *Not yet, but eager to build and showcase projects soon!_*
 
 - Currently Learning:
   - Bootstrap
