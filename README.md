@@ -14,12 +14,13 @@
 - 🚀 *Favorite/Notable Projects:  
   *Not yet, but eager to build and showcase projects soon!_*
 
--  Currently Learning:
-  -Bootstrap
+- Currently Learning:
+  - Bootstrap
    
-Contact Info:
-ahmadshaaibuasd@gmail.com
-08181849374//09137314876
+-  Contact Info:
+ - ahmadshaaibuasd@gmail.com
+ - 08181849374//09137314876
+
    
 -  Fun Facts / Interests:
 -  
